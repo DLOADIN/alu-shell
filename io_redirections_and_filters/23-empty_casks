@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -exec basename {} \i;
+find . -empty -exec basename {} \;
